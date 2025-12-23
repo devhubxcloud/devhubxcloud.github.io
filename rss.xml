@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    
+    <channel>
+        <title>DevHubX Cloud Blog</title>
+        <link>https://devhubxcloud.github.io/</link>
+        <atom:link href="https://devhubxcloud.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <description>Personal blog sharing insights on cloud computing, DevOps practices, development tutorials, and technology trends.</description>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 15 Jan 2024 10:00:00 GMT</lastBuildDate>
+        <pubDate>Tue, 15 Jan 2024 10:00:00 GMT</pubDate>
+        <generator>DevHubX Cloud Blog</generator>
+        <webMaster>support@devhubx.org (DevHubX Support)</webMaster>
+        <managingEditor>info@devhubx.org (DevHubX Team)</managingEditor>
+        <copyright>© 2024 DevHubX Cloud Blog. All rights reserved.</copyright>
+        <image>
+            <url>https://devhubxcloud.github.io/logo.svg</url>
+            <title>DevHubX Cloud Blog</title>
+            <link>https://devhubxcloud.github.io/</link>
+            <width>144</width>
+            <height>40</height>
+            <description>DevHubX Cloud Blog Logo</description>
+        </image>
+        <category>Technology</category>
+        <category>Cloud Computing</category>
+        <category>Development</category>
+        
+        <!-- Latest Posts -->
+        <item>
+            <title>Getting Started with Cloud Infrastructure as Code</title>
+            <link>https://devhubxcloud.github.io/#post1</link>
+            <guid isPermaLink="true">https://devhubxcloud.github.io/#post1</guid>
+            <description>Learn how to manage your cloud infrastructure using code with Terraform and AWS CDK. Best practices and practical examples included.</description>
+            <content:encoded><![CDATA[
+                <h1>Getting Started with Cloud Infrastructure as Code</h1>
+                <p>Learn how to manage your cloud infrastructure using code with Terraform and AWS CDK. Best practices and practical examples included.</p>
+                <p>Category: <a href="https://devhubxcloud.github.io/#cloud">Cloud Computing</a></p>
+                <p>Tags: Terraform, AWS, Infrastructure</p>
+            ]]></content:encoded>
+            <pubDate>Wed, 10 Jan 2024 14:30:00 GMT</pubDate>
+            <dc:creator>DevHubX Cloud Team</dc:creator>
+            <category>Cloud Computing</category>
+            <category>Terraform</category>
+            <category>AWS</category>
+        </item>
+        
+        <item>
+            <title>CI/CD Pipeline Optimization for Small Teams</title>
+            <link>https://devhubxcloud.github.io/#post2</link>
+            <guid isPermaLink="true">https://devhubxcloud.github.io/#post2</guid>
+            <description>How to set up efficient CI/CD pipelines without overwhelming complexity. Tools and strategies that work for small to medium-sized teams.</description>
+            <content:encoded><![CDATA[
+                <h1>CI/CD Pipeline Optimization for Small Teams</h1>
+                <p>How to set up efficient CI/CD pipelines without overwhelming complexity. Tools and strategies that work for small to medium-sized teams.</p>
+                <p>Category: <a href="https://devhubxcloud.github.io/#devops">DevOps</a></p>
+                <p>Tags: CI/CD, GitHub Actions, Automation</p>
+            ]]></content:encoded>
+            <pubDate>Fri, 05 Jan 2024 11:15:00 GMT</pubDate>
+            <dc:creator>DevHubX Cloud Team</dc:creator>
+            <category>DevOps</category>
+            <category>CI/CD</category>
+            <category>Automation</category>
+        </item>
+        
+        <item>
+            <title>Building Scalable APIs with Serverless Architecture</title>
+            <link>https://devhubxcloud.github.io/#post3</link>
+            <guid isPermaLink="true">https://devhubxcloud.github.io/#post3</guid>
+            <description>A practical guide to creating RESTful APIs using AWS Lambda and API Gateway. Includes cost optimization tips and performance considerations.</description>
+            <content:encoded><![CDATA[
+                <h1>Building Scalable APIs with Serverless Architecture</h1>
+                <p>A practical guide to creating RESTful APIs using AWS Lambda and API Gateway. Includes cost optimization tips and performance considerations.</p>
+                <p>Category: <a href="https://devhubxcloud.github.io/#development">Development</a></p>
+                <p>Tags: API, Serverless, AWS Lambda</p>
+            ]]></content:encoded>
+            <pubDate>Thu, 28 Dec 2023 09:45:00 GMT</pubDate>
+            <dc:creator>DevHubX Cloud Team</dc:creator>
+            <category>Development</category>
+            <category>API</category>
+            <category>Serverless</category>
+        </item>
+        
+        <item>
+            <title>Cloud Security Best Practices for 2024</title>
+            <link>https://devhubxcloud.github.io/#post4</link>
+            <guid isPermaLink="true">https://devhubxcloud.github.io/#post4</guid>
+            <description>Essential security practices to protect your cloud infrastructure from common threats and vulnerabilities.</description>
+            <content:encoded><![CDATA[
+                <h1>Cloud Security Best Practices for 2024</h1>
+                <p>Essential security practices to protect your cloud infrastructure from common threats and vulnerabilities.</p>
+                <p>Category: <a href="https://devhubxcloud.github.io/#security">Security</a></p>
+                <p>Tags: Security, AWS IAM, Compliance</p>
+            ]]></content:encoded>
+            <pubDate>Wed, 20 Dec 2023 16:20:00 GMT</pubDate>
+            <dc:creator>DevHubX Cloud Team</dc:creator>
+            <category>Security</category>
+            <category>Cloud Security</category>
+            <category>Best Practices</category>
+        </item>
+        
+    </channel>
+</rss>
