@@ -44,7 +44,7 @@
         <rect width="300" height="50" rx="10" fill="#F5F8FA"/>
         
         <text x="25" y="35" font-family="Arial, sans-serif" font-size="20" fill="#1DA1F2" font-weight="bold">
-            @devhubx
+            @devhubxcloud
         </text>
         
         <text x="200" y="35" font-family="Arial, sans-serif" font-size="18" fill="#657786">
