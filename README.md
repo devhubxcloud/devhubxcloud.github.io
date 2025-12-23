@@ -1,6 +1,6 @@
 # DevHubX Cloud Blog
 
-![DevHubX Cloud Blog](https://devhubxcloud.github.io/og-image.svg)
+![DevHubX Cloud Blog](https://devhubxcloud.github.io/images/og-image.svg)
 
 A personal blog sharing insights on cloud computing, DevOps practices, development tutorials, and technology trends.
 
