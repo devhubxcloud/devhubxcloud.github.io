@@ -1,0 +1,12 @@
+# DevHubX Cloud Blog - Security Policy
+Contact: mailto:support@devhubx.org
+Contact: https://www.devhubx.org/security
+Encryption: https://devhubxcloud.github.io/pgp-key.txt
+Acknowledgments: https://devhubxcloud.github.io/security-hall-of-fame
+Policy: https://devhubxcloud.github.io/security-policy
+Preferred-Languages: en
+Canonical: https://devhubxcloud.github.io/.well-known/security.txt
+Expires: 2025-01-15T00:00:00.000Z
+
+# Please report security vulnerabilities to support@devhubx.org
+# We appreciate responsible disclosure and will acknowledge contributions
