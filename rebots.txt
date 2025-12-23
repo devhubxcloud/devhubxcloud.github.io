@@ -1,0 +1,65 @@
+# DevHubX Cloud Blog - Robots.txt
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /admin/
+Disallow: /search/
+Disallow: /*?sort=
+Disallow: /*?filter=
+
+# Sitemap
+Sitemap: https://devhubxcloud.github.io/sitemap.xml
+Sitemap: https://devhubxcloud.github.io/rss.xml
+
+# Crawl delay (requests per second)
+Crawl-delay: 2
+
+# Special rules for specific bots
+User-agent: Googlebot
+Allow: /
+Disallow: /private/
+Crawl-delay: 1
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /private/images/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /private/
+Crawl-delay: 2
+
+User-agent: Slurp
+Allow: /
+Disallow: /private/
+Crawl-delay: 3
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /private/
+Crawl-delay: 1
+
+User-agent: Baiduspider
+Allow: /
+Disallow: /private/
+Crawl-delay: 5
+
+User-agent: YandexBot
+Allow: /
+Disallow: /private/
+Crawl-delay: 3
+
+# Block AI crawlers
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+
+# Host
+Host: devhubxcloud.github.io
+
+# Comments
+# This robots.txt file is for DevHubX Cloud Blog
+# Last updated: January 15, 2024
