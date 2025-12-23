@@ -1,0 +1,103 @@
+{
+  "name": "DevHubX Cloud Blog",
+  "short_name": "DevHubX Blog",
+  "description": "Personal blog sharing insights on cloud computing, DevOps practices, and development tutorials",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4361ee",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  
+  "screenshots": [
+    {
+      "src": "/screenshots/desktop.png",
+      "type": "image/png",
+      "sizes": "1280x720",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshots/mobile.png",
+      "type": "image/png",
+      "sizes": "750x1334",
+      "form_factor": "narrow"
+    }
+  ],
+  
+  "categories": [
+    "technology",
+    "education",
+    "blogging"
+  ],
+  
+  "shortcuts": [
+    {
+      "name": "Latest Posts",
+      "short_name": "Posts",
+      "description": "Read the latest blog posts",
+      "url": "/#blog",
+      "icons": [{ "src": "/icon-96.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Tutorials",
+      "short_name": "Tutorials",
+      "description": "Step-by-step guides",
+      "url": "/#tutorials",
+      "icons": [{ "src": "/icon-96.png", "sizes": "96x96" }]
+    },
+    {
+      "name": "Subscribe",
+      "short_name": "Subscribe",
+      "description": "Subscribe to newsletter",
+      "url": "/#subscribe",
+      "icons": [{ "src": "/icon-96.png", "sizes": "96x96" }]
+    }
+  ],
+  
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://devhubxcloud.github.io"
+    }
+  ],
+  
+  "prefer_related_applications": false,
+  
+  "iarc_rating_id": "e84b072d-719b-4563-80ef-common",
+  
+  "features": [
+    "darkmode",
+    "push",
+    "share",
+    "offline"
+  ]
+}
