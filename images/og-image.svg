@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+    <defs>
+        <linearGradient id="ogBg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#4361ee"/>
+            <stop offset="100%" stop-color="#3a0ca3"/>
+        </linearGradient>
+        <linearGradient id="ogText" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#ffffff"/>
+            <stop offset="100%" stop-color="#f8f9fa"/>
+        </linearGradient>
+    </defs>
+    
+    <!-- Background -->
+    <rect width="1200" height="630" fill="url(#ogBg)"/>
+    
+    <!-- Cloud pattern -->
+    <path d="M100,150 C50,150 0,130 0,100 C0,70 30,50 60,50 C75,50 90,60 95,75 C110,60 125,50 145,50 C170,50 190,70 190,95 C205,95 215,105 215,120 C215,140 195,150 170,150 L100,150 Z" 
+          fill="white" opacity="0.1"/>
+    
+    <path d="M400,300 C350,300 300,280 300,250 C300,220 330,200 360,200 C375,200 390,210 395,225 C410,210 425,200 445,200 C470,200 490,220 490,245 C505,245 515,255 515,270 C515,290 495,300 470,300 L400,300 Z" 
+          fill="white" opacity="0.1"/>
+    
+    <path d="M800,200 C750,200 700,180 700,150 C700,120 730,100 760,100 C775,100 790,110 795,125 C810,110 825,100 845,100 C870,100 890,120 890,145 C905,145 915,155 915,170 C915,190 895,200 870,200 L800,200 Z" 
+          fill="white" opacity="0.1"/>
+    
+    <!-- Logo/Icon -->
+    <path d="M150,400 C120,400 100,380 100,350 C100,320 130,300 160,300 C175,300 190,310 195,325 C210,310 225,300 245,300 C270,300 290,320 290,345 C305,345 315,355 315,370 C315,390 295,400 270,400 L150,400 Z" 
+          fill="white" opacity="0.9"/>
+    
+    <circle cx="200" cy="350" r="15" fill="#4cc9f0"/>
+    
+    <!-- Text -->
+    <text x="400" y="350" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#ogText)">
+        DevHubX Cloud Blog
+    </text>
+    
+    <text x="400" y="420" font-family="Arial, sans-serif" font-size="32" fill="white" opacity="0.9">
+        Cloud Computing Insights & Development Tutorials
+    </text>
+    
+    <text x="400" y="480" font-family="Arial, sans-serif" font-size="24" fill="white" opacity="0.7">
+        devhubxcloud.github.io
+    </text>
+    
+    <!-- Bottom bar -->
+    <rect x="0" y="580" width="1200" height="50" fill="#1a1a1a" opacity="0.8"/>
+    
+    <text x="600" y="615" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="white" opacity="0.9">
+        Cloud • DevOps • Development • Tutorials
+    </text>
+</svg>
