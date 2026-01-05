@@ -10,7 +10,7 @@ A personal blog sharing insights on cloud computing, DevOps practices, developme
 ## 📧 Contact
 - **Support**: support@devhubx.org
 - **General**: info@devhubx.org
-- **Main Website**: [www.devhubx.org](https://www.devhubx.org)
+- **Main Website**: [devhubx.org](https://devhubx.org)
 
 ## 🚀 Features
 
