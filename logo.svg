@@ -7,12 +7,12 @@
   </defs>
   <g>
     <!-- Cloud Icon -->
-    <path d="M15,30 C5,30 0,25 0,15 C0,5 10,0 20,0 C25,0 30,2 33,7 C38,3 45,0 52,0 C65,0 75,10 75,22 C85,22 90,27 90,35 C90,45 82,50 72,50 L15,50 C5,50 0,45 0,35 C0,25 5,30 15,30 Z" 
+    <path d="M15,30 C5,30 0,25 0,15 C0,5 10,0 20,0 C25,0 30,2 33,7 C38,3 45,0 52,0 C65,0 75,10 75,22 C85,22 90,27 90,35 C90,45 82,50 72,50 L15,50 C5,50 0,45 0,35 C0,25 5,30 15,30 Z"
           fill="url(#logoGradient)"/>
     <circle cx="35" cy="20" r="3" fill="white" opacity="0.8"/>
-    
+
     <!-- Text -->
-    <text x="85" y="35" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#212529">DevHubX</text>
-    <text x="85" y="55" font-family="Arial, sans-serif" font-weight="normal" font-size="18" fill="#4361ee">Cloud Blog</text>
+    <text x="95" y="35" font-family="Arial, sans-serif" font-weight="bold" font-size="24" fill="#212529">DevHubX</text>
+    <text x="95" y="50" font-family="Arial, sans-serif" font-weight="normal" font-size="18" fill="#4361ee">Cloud Blog</text>
   </g>
 </svg>
